@@ -2,6 +2,7 @@ name = input("enter your name: ")
 age = input("enter your age: ")
 college = input("enter your college: ")
 branch = input("enter your branch: ")
+
 num1 = int(input("enter the first no.: "))
 num2 = int(input("enter thr second no.: "))
 print ("sum:", num1+num2)
