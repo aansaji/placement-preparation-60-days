@@ -1,0 +1,11 @@
+Date,Product,Quantity,Price,City,Payment
+2026-08-01,Laptop,2.0,55000.0,Bangalore,UPI
+2026-08-02,Mouse,5.0,800.0,Mysore,Card
+2026-08-02,Mouse,5.0,800.0,Mysore,Card
+2026-08-03,Keyboard,,1500.0,Bangalore,UPI
+2026-08-04,laptop,3.0,1500.0,bangalore,upi
+2026-08-04,Headphones,4.0,2500.0,Bangalore,UPI
+2026-08-05,Keyboard,3.0,1500.0,Chennai,Card
+2026-08-06,Mouse,8.0,800.0,Hyderabad,Cash
+2026-08-06,Monitor,2.0,,Bangalore,Cash
+2026-08-07,Mouse,10.0,800.0,Mysore,UPI

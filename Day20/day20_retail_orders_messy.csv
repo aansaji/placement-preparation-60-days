@@ -1,0 +1,13 @@
+Order_ID,Customer,Product,Category,Quantity,Price,City,Payment
+101,Asha,Phone,Electronics,1.0,25000.0,Bangalore,UPI
+102,Rahul,Charger,Accessories,2.0,500.0,Mysore,Card
+103,Meera,Earbuds,Accessories,,2000.0,Chennai,Cash
+104,Arun,phone,Electronics,1.0,25000.0,bangalore,upi
+104,Arun,phone,Electronics,1.0,25000.0,bangalore,upi
+105,Priya,Laptop,Electronics,1.0,55000.0,Hyderabad,Card
+106,Kiran,Mouse,Accessories,3.0,800.0,Mysore,UPI
+107,Meera,Laptop,Electronics,1.0,55000.0,Chennai,Card
+108,Asha,Mouse ,Accessories,5.0,800.0,Bangalore,UPI
+109,Rahul,Earbuds,Accessories,2.0,,Mysore,Cash
+110,Priya,Charger,Accessories,4.0,500.0,Hyderabad,Card
+111,Kiran,Laptop,Electronics,1.0,55000.0,Chennai,card
