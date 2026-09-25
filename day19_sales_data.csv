@@ -1,0 +1,13 @@
+Date,Product,Category,Quantity,Price,Customer,City,Payment
+2026-08-01,Laptop,Electronics,2,55000,Asha,Bangalore,UPI
+2026-08-02,Mouse,Accessories,5,800,Rahul,Mysore,Card
+2026-08-03,Keyboard,Accessories,3,1500,Meera,Bangalore,UPI
+2026-08-04,Laptop,Electronics,1,55000,Arun,Chennai,Card
+2026-08-05,Headphones,Accessories,4,2500,Priya,Bangalore,UPI
+2026-08-06,Mouse,Accessories,8,800,Kiran,Hyderabad,Cash
+2026-08-07,Monitor,Electronics,2,18000,Asha,Mysore,Card
+2026-08-08,Keyboard,Accessories,6,1500,Rahul,Bangalore,UPI
+2026-08-09,Laptop,Electronics,1,55000,Meera,Chennai,Card
+2026-08-10,Headphones,Accessories,3,2500,Arun,Hyderabad,UPI
+2026-08-11,Monitor,Electronics,2,18000,Priya,Bangalore,Cash
+2026-08-12,Mouse,Accessories,10,800,Kiran,Mysore,UPI
